@@ -1,4 +1,4 @@
-package com.company;
+package com.company.shit;
 
 public class PrintMatrix {
     public static void main(String[] args) {
